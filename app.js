@@ -19,3 +19,7 @@ let division = function() {
 let multiplicaiton = function() {
 
 }
+
+function operate() {
+  
+}
