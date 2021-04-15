@@ -3,6 +3,30 @@ class Calculator {
     this.previousOperandTextElement = previousOperandTextElement
     this.currentOperandTextElement = currentOperandTextElement
   }
+
+  clear() {
+
+  }
+
+  delete() {
+
+  }
+
+  appendNumber(number) {
+
+  }
+
+  chooseOpertation(operate) {
+
+  }
+
+  compute() {
+
+  }
+
+  updateDisplay() {
+
+  }
 }
 
 const numberButtons = document.querySelectorAll('[data-number]');
@@ -16,17 +40,17 @@ const currentOperandTextElement = document.querySelector('data-current-operand')
 
 
 
-/* let addition = function() {
+/* addition() {
 }
 
-let subtraction = function() {
+subtraction() {
 }
 
-let division = function() {
+division() {
 }
 
-let multiplicaiton = function() {
+multiplication() {
 }
 
-function operate() {
+operate() {
 } */
