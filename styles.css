@@ -35,7 +35,7 @@ body {
 }
 
 .output {
-  grid-column: 1 / -1;
+  grid-column: 1 / -1; /* makes screen span whole width of buttons (from column 1 all the way to column -1, the last column. */
   background-color: rgba(0, 0, 0, .75);
   display:flex;
   align-items: flex-end;
